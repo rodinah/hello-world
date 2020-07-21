@@ -1,1 +1,3 @@
-# hello-world
+void main () {
+print ("Hello Word")
+}
